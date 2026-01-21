@@ -1,0 +1,2673 @@
+{
+  "generatedAt": "2026-01-21T11:35:31.562341",
+  "groups": [
+    {
+      "id": "бумажные-подарочные-b-12x36x8",
+      "type": "Бумажные подарочные",
+      "series": "B",
+      "size": "12x36x8",
+      "title": "B • 12×36×8",
+      "tags": [],
+      "variantCount": 11,
+      "variants": [
+        {
+          "sku": "B-401"
+        },
+        {
+          "sku": "B-402"
+        },
+        {
+          "sku": "B-403"
+        },
+        {
+          "sku": "B-404"
+        },
+        {
+          "sku": "B-405"
+        },
+        {
+          "sku": "B-406"
+        },
+        {
+          "sku": "B-407"
+        },
+        {
+          "sku": "B-408"
+        },
+        {
+          "sku": "B-409"
+        },
+        {
+          "sku": "B-410"
+        },
+        {
+          "sku": "B-471"
+        }
+      ],
+      "images": [
+        "37144f334efb.webp",
+        "5bc6aac8978a.webp",
+        "c61fc2020069.webp"
+      ],
+      "coverImage": "37144f334efb.webp"
+    },
+    {
+      "id": "бумажные-подарочные-b-x-15x36x12",
+      "type": "Бумажные подарочные",
+      "series": "B-X",
+      "size": "15x36x12",
+      "title": "B-X • 15×36×12",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "B-X"
+        }
+      ],
+      "images": [
+        "ee2d8079df3e.webp"
+      ],
+      "coverImage": "ee2d8079df3e.webp"
+    },
+    {
+      "id": "бумажные-подарочные-b25-12x36x8",
+      "type": "Бумажные подарочные",
+      "series": "B25",
+      "size": "12x36x8",
+      "title": "B25 • 12×36×8",
+      "tags": [],
+      "variantCount": 15,
+      "variants": [
+        {
+          "sku": "B25-411"
+        },
+        {
+          "sku": "B25-412"
+        },
+        {
+          "sku": "B25-413"
+        },
+        {
+          "sku": "B25-414"
+        },
+        {
+          "sku": "B25-415"
+        },
+        {
+          "sku": "B25-416"
+        },
+        {
+          "sku": "B25-417"
+        },
+        {
+          "sku": "B25-418"
+        },
+        {
+          "sku": "B25-419"
+        },
+        {
+          "sku": "B25-420"
+        },
+        {
+          "sku": "B25-421"
+        },
+        {
+          "sku": "B25-422"
+        },
+        {
+          "sku": "B25-423"
+        },
+        {
+          "sku": "B25-424"
+        },
+        {
+          "sku": "B25-425"
+        }
+      ],
+      "images": [
+        "24d0e4a07ac4.webp",
+        "6af452019755.webp",
+        "f23c46fa2733.webp"
+      ],
+      "coverImage": "24d0e4a07ac4.webp"
+    },
+    {
+      "id": "бумажные-подарочные-bc-15x36x12",
+      "type": "Бумажные подарочные",
+      "series": "BC",
+      "size": "15x36x12",
+      "title": "BC • 15×36×12",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "BC"
+        }
+      ],
+      "images": [
+        "b1bc348e9811.webp"
+      ],
+      "coverImage": "b1bc348e9811.webp"
+    },
+    {
+      "id": "бумажные-подарочные-bg-na",
+      "type": "Бумажные подарочные",
+      "series": "BG",
+      "size": null,
+      "title": "BG",
+      "tags": [],
+      "variantCount": 4,
+      "variants": [
+        {
+          "sku": "BG-401"
+        },
+        {
+          "sku": "BG-405"
+        },
+        {
+          "sku": "BG-413"
+        },
+        {
+          "sku": "BG-414"
+        }
+      ],
+      "images": [
+        "4ad681c97c0a.webp",
+        "e39094e35c26.webp"
+      ],
+      "coverImage": "4ad681c97c0a.webp"
+    },
+    {
+      "id": "бумажные-подарочные-l-26x32",
+      "type": "Бумажные подарочные",
+      "series": "L",
+      "size": "26x32",
+      "title": "L • 26×32",
+      "tags": [],
+      "variantCount": 31,
+      "variants": [
+        {
+          "sku": "L-301"
+        },
+        {
+          "sku": "L-302"
+        },
+        {
+          "sku": "L-303"
+        },
+        {
+          "sku": "L-304"
+        },
+        {
+          "sku": "L-305"
+        },
+        {
+          "sku": "L-313"
+        },
+        {
+          "sku": "L-314"
+        },
+        {
+          "sku": "L-315"
+        },
+        {
+          "sku": "L-316"
+        },
+        {
+          "sku": "L-317"
+        },
+        {
+          "sku": "L-318"
+        },
+        {
+          "sku": "L-344"
+        },
+        {
+          "sku": "L-345"
+        },
+        {
+          "sku": "L-346"
+        },
+        {
+          "sku": "L-347"
+        },
+        {
+          "sku": "L-348"
+        },
+        {
+          "sku": "L-354"
+        },
+        {
+          "sku": "L-355"
+        },
+        {
+          "sku": "L-356"
+        },
+        {
+          "sku": "L-357"
+        },
+        {
+          "sku": "L-358"
+        },
+        {
+          "sku": "L-359"
+        },
+        {
+          "sku": "L-360"
+        },
+        {
+          "sku": "L-361"
+        },
+        {
+          "sku": "L-362"
+        },
+        {
+          "sku": "L-363"
+        },
+        {
+          "sku": "L-364"
+        },
+        {
+          "sku": "L-365"
+        },
+        {
+          "sku": "L-366"
+        },
+        {
+          "sku": "L-367"
+        },
+        {
+          "sku": "L-368"
+        }
+      ],
+      "images": [
+        "14cda661de49.webp",
+        "576126e1e168.webp",
+        "62afcce908ad.webp",
+        "7e9b7244d1e5.webp",
+        "dd838696d927.webp",
+        "f1d9d16f4bae.webp"
+      ],
+      "coverImage": "14cda661de49.webp"
+    },
+    {
+      "id": "бумажные-подарочные-l25-26x32",
+      "type": "Бумажные подарочные",
+      "series": "L25",
+      "size": "26x32",
+      "title": "L25 • 26×32",
+      "tags": [],
+      "variantCount": 17,
+      "variants": [
+        {
+          "sku": "L25-306"
+        },
+        {
+          "sku": "L25-307"
+        },
+        {
+          "sku": "L25-308"
+        },
+        {
+          "sku": "L25-309"
+        },
+        {
+          "sku": "L25-310"
+        },
+        {
+          "sku": "L25-311"
+        },
+        {
+          "sku": "L25-312"
+        },
+        {
+          "sku": "L25-313"
+        },
+        {
+          "sku": "L25-314"
+        },
+        {
+          "sku": "L25-315"
+        },
+        {
+          "sku": "L25-316"
+        },
+        {
+          "sku": "L25-317"
+        },
+        {
+          "sku": "L25-318"
+        },
+        {
+          "sku": "L25-319"
+        },
+        {
+          "sku": "L25-320"
+        },
+        {
+          "sku": "L25-336"
+        },
+        {
+          "sku": "L25-337"
+        }
+      ],
+      "images": [
+        "40b24a6b9677.webp",
+        "68bdd7f2f740.webp",
+        "7c3cb0e11ab1.webp",
+        "e82e24e441c4.webp"
+      ],
+      "coverImage": "40b24a6b9677.webp"
+    },
+    {
+      "id": "бумажные-подарочные-l3-26x32x10",
+      "type": "Бумажные подарочные",
+      "series": "L3",
+      "size": "26x32x10",
+      "title": "L3 • 26×32×10",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "L3"
+        }
+      ],
+      "images": [
+        "55ec485f47ab.webp"
+      ],
+      "coverImage": "55ec485f47ab.webp"
+    },
+    {
+      "id": "бумажные-подарочные-lg-na",
+      "type": "Бумажные подарочные",
+      "series": "LG",
+      "size": null,
+      "title": "LG",
+      "tags": [],
+      "variantCount": 4,
+      "variants": [
+        {
+          "sku": "LG-311"
+        },
+        {
+          "sku": "LG-312"
+        },
+        {
+          "sku": "LG-313"
+        },
+        {
+          "sku": "LG-314"
+        }
+      ],
+      "images": [
+        "3f83a92848b6.webp",
+        "62edb17f8478.webp"
+      ],
+      "coverImage": "3f83a92848b6.webp"
+    },
+    {
+      "id": "бумажные-подарочные-lh-32x26",
+      "type": "Бумажные подарочные",
+      "series": "LH",
+      "size": "32x26",
+      "title": "LH • 32×26",
+      "tags": [],
+      "variantCount": 12,
+      "variants": [
+        {
+          "sku": "LH-823"
+        },
+        {
+          "sku": "LH-824"
+        },
+        {
+          "sku": "LH-825"
+        },
+        {
+          "sku": "LH-826"
+        },
+        {
+          "sku": "LH-827"
+        },
+        {
+          "sku": "LH-828"
+        },
+        {
+          "sku": "LH-829"
+        },
+        {
+          "sku": "LH-834"
+        },
+        {
+          "sku": "LH-835"
+        },
+        {
+          "sku": "LH-836"
+        },
+        {
+          "sku": "LH-837"
+        },
+        {
+          "sku": "LH-838"
+        }
+      ],
+      "images": [
+        "52739f6f13bc.webp",
+        "53dfe3fab1ca.webp",
+        "9beba03b92e1.webp"
+      ],
+      "coverImage": "52739f6f13bc.webp"
+    },
+    {
+      "id": "бумажные-подарочные-lh25-32x26",
+      "type": "Бумажные подарочные",
+      "series": "LH25",
+      "size": "32x26",
+      "title": "LH25 • 32×26",
+      "tags": [],
+      "variantCount": 4,
+      "variants": [
+        {
+          "sku": "LH25-801"
+        },
+        {
+          "sku": "LH25-802"
+        },
+        {
+          "sku": "LH25-803"
+        },
+        {
+          "sku": "LH25-804"
+        }
+      ],
+      "images": [
+        "1d7f6ca36af7.webp",
+        "d3736e1eac41.webp"
+      ],
+      "coverImage": "1d7f6ca36af7.webp"
+    },
+    {
+      "id": "бумажные-подарочные-m-18x23",
+      "type": "Бумажные подарочные",
+      "series": "M",
+      "size": "18x23",
+      "title": "M • 18×23",
+      "tags": [],
+      "variantCount": 15,
+      "variants": [
+        {
+          "sku": "M-201"
+        },
+        {
+          "sku": "M-202"
+        },
+        {
+          "sku": "M-203"
+        },
+        {
+          "sku": "M-204"
+        },
+        {
+          "sku": "M-205"
+        },
+        {
+          "sku": "M-206"
+        },
+        {
+          "sku": "M-207"
+        },
+        {
+          "sku": "M-208"
+        },
+        {
+          "sku": "M-209"
+        },
+        {
+          "sku": "M-210"
+        },
+        {
+          "sku": "M-211"
+        },
+        {
+          "sku": "M-212"
+        },
+        {
+          "sku": "M-213"
+        },
+        {
+          "sku": "M-214"
+        },
+        {
+          "sku": "M-215"
+        }
+      ],
+      "images": [
+        "252973641440.webp",
+        "6dc91ed67c0c.webp",
+        "ee746ff11e43.webp"
+      ],
+      "coverImage": "252973641440.webp"
+    },
+    {
+      "id": "бумажные-подарочные-m25-18x23",
+      "type": "Бумажные подарочные",
+      "series": "M25",
+      "size": "18x23",
+      "title": "M25 • 18×23",
+      "tags": [],
+      "variantCount": 17,
+      "variants": [
+        {
+          "sku": "M25-216"
+        },
+        {
+          "sku": "M25-217"
+        },
+        {
+          "sku": "M25-218"
+        },
+        {
+          "sku": "M25-219"
+        },
+        {
+          "sku": "M25-220"
+        },
+        {
+          "sku": "M25-221"
+        },
+        {
+          "sku": "M25-222"
+        },
+        {
+          "sku": "M25-223"
+        },
+        {
+          "sku": "M25-224"
+        },
+        {
+          "sku": "M25-225"
+        },
+        {
+          "sku": "M25-226"
+        },
+        {
+          "sku": "M25-227"
+        },
+        {
+          "sku": "M25-228"
+        },
+        {
+          "sku": "M25-229"
+        },
+        {
+          "sku": "M25-230"
+        },
+        {
+          "sku": "M25-251"
+        },
+        {
+          "sku": "M25-252"
+        }
+      ],
+      "images": [
+        "1b2c1005841d.webp",
+        "5c7ac30a163e.webp",
+        "b198a683ec95.webp",
+        "c37f01556bec.webp"
+      ],
+      "coverImage": "1b2c1005841d.webp"
+    },
+    {
+      "id": "бумажные-подарочные-mg-na",
+      "type": "Бумажные подарочные",
+      "series": "MG",
+      "size": null,
+      "title": "MG",
+      "tags": [],
+      "variantCount": 4,
+      "variants": [
+        {
+          "sku": "MG-201"
+        },
+        {
+          "sku": "MG-205"
+        },
+        {
+          "sku": "MG-211"
+        },
+        {
+          "sku": "MG-212"
+        }
+      ],
+      "images": [
+        "9ea6f7a301f4.webp",
+        "aad66b1560a2.webp"
+      ],
+      "coverImage": "9ea6f7a301f4.webp"
+    },
+    {
+      "id": "бумажные-подарочные-ml-22x31",
+      "type": "Бумажные подарочные",
+      "series": "ML",
+      "size": "22x31",
+      "title": "ML • 22×31",
+      "tags": [],
+      "variantCount": 10,
+      "variants": [
+        {
+          "sku": "ML-701"
+        },
+        {
+          "sku": "ML-702"
+        },
+        {
+          "sku": "ML-703"
+        },
+        {
+          "sku": "ML-704"
+        },
+        {
+          "sku": "ML-705"
+        },
+        {
+          "sku": "ML-706"
+        },
+        {
+          "sku": "ML-707"
+        },
+        {
+          "sku": "ML-708"
+        },
+        {
+          "sku": "ML-709"
+        },
+        {
+          "sku": "ML-710"
+        }
+      ],
+      "images": [
+        "8bbbf332e2cf.webp",
+        "dc8860300b2f.webp"
+      ],
+      "coverImage": "8bbbf332e2cf.webp"
+    },
+    {
+      "id": "бумажные-подарочные-ml25-22x31",
+      "type": "Бумажные подарочные",
+      "series": "ML25",
+      "size": "22x31",
+      "title": "ML25 • 22×31",
+      "tags": [],
+      "variantCount": 20,
+      "variants": [
+        {
+          "sku": "ML25-701"
+        },
+        {
+          "sku": "ML25-702"
+        },
+        {
+          "sku": "ML25-703"
+        },
+        {
+          "sku": "ML25-704"
+        },
+        {
+          "sku": "ML25-705"
+        },
+        {
+          "sku": "ML25-706"
+        },
+        {
+          "sku": "ML25-707"
+        },
+        {
+          "sku": "ML25-708"
+        },
+        {
+          "sku": "ML25-709"
+        },
+        {
+          "sku": "ML25-710"
+        },
+        {
+          "sku": "ML25-711"
+        },
+        {
+          "sku": "ML25-712"
+        },
+        {
+          "sku": "ML25-713"
+        },
+        {
+          "sku": "ML25-714"
+        },
+        {
+          "sku": "ML25-715"
+        },
+        {
+          "sku": "ML25-731"
+        },
+        {
+          "sku": "ML25-732"
+        },
+        {
+          "sku": "ML25-733"
+        },
+        {
+          "sku": "ML25-734"
+        },
+        {
+          "sku": "ML25-735"
+        }
+      ],
+      "images": [
+        "0ece5f910ddd.webp",
+        "7219f5e65d6e.webp",
+        "8cd994ae4c8f.webp",
+        "c6d0e28eb4db.webp"
+      ],
+      "coverImage": "0ece5f910ddd.webp"
+    },
+    {
+      "id": "бумажные-подарочные-mlg-na",
+      "type": "Бумажные подарочные",
+      "series": "MLG",
+      "size": null,
+      "title": "MLG",
+      "tags": [],
+      "variantCount": 4,
+      "variants": [
+        {
+          "sku": "MLG-701"
+        },
+        {
+          "sku": "MLG-705"
+        },
+        {
+          "sku": "MLG-713"
+        },
+        {
+          "sku": "MLG-714"
+        }
+      ],
+      "images": [
+        "aad66b1560a2.webp",
+        "ce47775c0b88.webp"
+      ],
+      "coverImage": "aad66b1560a2.webp"
+    },
+    {
+      "id": "бумажные-подарочные-ms-14x20",
+      "type": "Бумажные подарочные",
+      "series": "MS",
+      "size": "14x20",
+      "title": "MS • 14×20",
+      "tags": [],
+      "variantCount": 15,
+      "variants": [
+        {
+          "sku": "MS-601"
+        },
+        {
+          "sku": "MS-602"
+        },
+        {
+          "sku": "MS-603"
+        },
+        {
+          "sku": "MS-604"
+        },
+        {
+          "sku": "MS-605"
+        },
+        {
+          "sku": "MS-606"
+        },
+        {
+          "sku": "MS-607"
+        },
+        {
+          "sku": "MS-608"
+        },
+        {
+          "sku": "MS-609"
+        },
+        {
+          "sku": "MS-610"
+        },
+        {
+          "sku": "MS-616"
+        },
+        {
+          "sku": "MS-617"
+        },
+        {
+          "sku": "MS-618"
+        },
+        {
+          "sku": "MS-619"
+        },
+        {
+          "sku": "MS-620"
+        }
+      ],
+      "images": [
+        "7a25117e7b58.webp",
+        "bd1a270df2f6.webp",
+        "ef7886253e81.webp"
+      ],
+      "coverImage": "7a25117e7b58.webp"
+    },
+    {
+      "id": "бумажные-подарочные-ms25-14x20",
+      "type": "Бумажные подарочные",
+      "series": "MS25",
+      "size": "14x20",
+      "title": "MS25 • 14×20",
+      "tags": [],
+      "variantCount": 11,
+      "variants": [
+        {
+          "sku": "MS25-611"
+        },
+        {
+          "sku": "MS25-612"
+        },
+        {
+          "sku": "MS25-6123"
+        },
+        {
+          "sku": "MS25-614"
+        },
+        {
+          "sku": "MS25-615"
+        },
+        {
+          "sku": "MS25-616"
+        },
+        {
+          "sku": "MS25-617"
+        },
+        {
+          "sku": "MS25-618"
+        },
+        {
+          "sku": "MS25-619"
+        },
+        {
+          "sku": "MS25-636"
+        },
+        {
+          "sku": "MS25-637"
+        }
+      ],
+      "images": [
+        "1d1b5b4eadf1.webp",
+        "61098ad4d6c4.webp",
+        "736307486177.webp"
+      ],
+      "coverImage": "1d1b5b4eadf1.webp"
+    },
+    {
+      "id": "бумажные-подарочные-msg-na",
+      "type": "Бумажные подарочные",
+      "series": "MSG",
+      "size": null,
+      "title": "MSG",
+      "tags": [],
+      "variantCount": 2,
+      "variants": [
+        {
+          "sku": "MSG-519"
+        },
+        {
+          "sku": "MSG-615"
+        }
+      ],
+      "images": [
+        "c56d762d2967.webp"
+      ],
+      "coverImage": "c56d762d2967.webp"
+    },
+    {
+      "id": "бумажные-подарочные-q20-20x20",
+      "type": "Бумажные подарочные",
+      "series": "Q20",
+      "size": "20x20",
+      "title": "Q20 • 20×20",
+      "tags": [],
+      "variantCount": 4,
+      "variants": [
+        {
+          "sku": "Q20-01"
+        },
+        {
+          "sku": "Q20-014"
+        },
+        {
+          "sku": "Q20-015"
+        },
+        {
+          "sku": "Q20-02"
+        }
+      ],
+      "images": [
+        "2786ca7747eb.webp",
+        "3eb5fa8d77b4.webp"
+      ],
+      "coverImage": "2786ca7747eb.webp"
+    },
+    {
+      "id": "бумажные-подарочные-q25-25x25",
+      "type": "Бумажные подарочные",
+      "series": "Q25",
+      "size": "25x25",
+      "title": "Q25 • 25×25",
+      "tags": [],
+      "variantCount": 11,
+      "variants": [
+        {
+          "sku": "Q25-01"
+        },
+        {
+          "sku": "Q25-011"
+        },
+        {
+          "sku": "Q25-012"
+        },
+        {
+          "sku": "Q25-013"
+        },
+        {
+          "sku": "Q25-014"
+        },
+        {
+          "sku": "Q25-015"
+        },
+        {
+          "sku": "Q25-02"
+        },
+        {
+          "sku": "Q25-022"
+        },
+        {
+          "sku": "Q25-023"
+        },
+        {
+          "sku": "Q25-024"
+        },
+        {
+          "sku": "Q25-025"
+        }
+      ],
+      "images": [
+        "20eed29324e2.webp",
+        "a8b96df620e9.webp",
+        "afa5b9104741.webp",
+        "ed78ebc30830.webp"
+      ],
+      "coverImage": "20eed29324e2.webp"
+    },
+    {
+      "id": "бумажные-подарочные-q30-30x30x14",
+      "type": "Бумажные подарочные",
+      "series": "Q30",
+      "size": "30x30x14",
+      "title": "Q30 • 30×30×14",
+      "tags": [],
+      "variantCount": 11,
+      "variants": [
+        {
+          "sku": "Q30-001"
+        },
+        {
+          "sku": "Q30-002"
+        },
+        {
+          "sku": "Q30-003"
+        },
+        {
+          "sku": "Q30-004"
+        },
+        {
+          "sku": "Q30-005"
+        },
+        {
+          "sku": "Q30-008"
+        },
+        {
+          "sku": "Q30-009"
+        },
+        {
+          "sku": "Q30-010"
+        },
+        {
+          "sku": "Q30-011"
+        },
+        {
+          "sku": "Q30-014"
+        },
+        {
+          "sku": "Q30-015"
+        }
+      ],
+      "images": [
+        "0c0c8e5e8b80.webp",
+        "7bbdb8405d1b.webp",
+        "97bf8e01808b.webp",
+        "d0978d241d14.webp"
+      ],
+      "coverImage": "0c0c8e5e8b80.webp"
+    },
+    {
+      "id": "бумажные-подарочные-q50-50x50x20",
+      "type": "Бумажные подарочные",
+      "series": "Q50",
+      "size": "50x50x20",
+      "title": "Q50 • 50×50×20",
+      "tags": [],
+      "variantCount": 3,
+      "variants": [
+        {
+          "sku": "Q50-001"
+        },
+        {
+          "sku": "Q50-002"
+        },
+        {
+          "sku": "Q50-003"
+        }
+      ],
+      "images": [
+        "7b429fd4e5e5.webp",
+        "9bb17462904c.webp"
+      ],
+      "coverImage": "7b429fd4e5e5.webp"
+    },
+    {
+      "id": "бумажные-подарочные-s-11x14",
+      "type": "Бумажные подарочные",
+      "series": "S",
+      "size": "11x14",
+      "title": "S • 11×14",
+      "tags": [],
+      "variantCount": 10,
+      "variants": [
+        {
+          "sku": "S-167"
+        },
+        {
+          "sku": "S-168"
+        },
+        {
+          "sku": "S-169"
+        },
+        {
+          "sku": "S-170"
+        },
+        {
+          "sku": "S-171"
+        },
+        {
+          "sku": "S-172"
+        },
+        {
+          "sku": "S-173"
+        },
+        {
+          "sku": "S-174"
+        },
+        {
+          "sku": "S-175"
+        },
+        {
+          "sku": "S-176"
+        }
+      ],
+      "images": [
+        "5ec44463ec93.webp",
+        "ecbc6eeeaf6e.webp"
+      ],
+      "coverImage": "5ec44463ec93.webp"
+    },
+    {
+      "id": "бумажные-подарочные-s25-11x14",
+      "type": "Бумажные подарочные",
+      "series": "S25",
+      "size": "11x14",
+      "title": "S25 • 11×14",
+      "tags": [],
+      "variantCount": 10,
+      "variants": [
+        {
+          "sku": "S25-101"
+        },
+        {
+          "sku": "S25-102"
+        },
+        {
+          "sku": "S25-103"
+        },
+        {
+          "sku": "S25-104"
+        },
+        {
+          "sku": "S25-105"
+        },
+        {
+          "sku": "S25-113"
+        },
+        {
+          "sku": "S25-114"
+        },
+        {
+          "sku": "S25-115"
+        },
+        {
+          "sku": "S25-116"
+        },
+        {
+          "sku": "S25-117"
+        }
+      ],
+      "images": [
+        "0f94580ecb0d.webp",
+        "990b12046535.webp"
+      ],
+      "coverImage": "0f94580ecb0d.webp"
+    },
+    {
+      "id": "бумажные-подарочные-xl-33x45",
+      "type": "Бумажные подарочные",
+      "series": "XL",
+      "size": "33x45",
+      "title": "XL • 33×45",
+      "tags": [],
+      "variantCount": 25,
+      "variants": [
+        {
+          "sku": "XL-501"
+        },
+        {
+          "sku": "XL-502"
+        },
+        {
+          "sku": "XL-503"
+        },
+        {
+          "sku": "XL-504"
+        },
+        {
+          "sku": "XL-505"
+        },
+        {
+          "sku": "XL-511"
+        },
+        {
+          "sku": "XL-512"
+        },
+        {
+          "sku": "XL-513"
+        },
+        {
+          "sku": "XL-514"
+        },
+        {
+          "sku": "XL-515"
+        },
+        {
+          "sku": "XL-516"
+        },
+        {
+          "sku": "XL-517"
+        },
+        {
+          "sku": "XL-518"
+        },
+        {
+          "sku": "XL-519"
+        },
+        {
+          "sku": "XL-520"
+        },
+        {
+          "sku": "XL-575"
+        },
+        {
+          "sku": "XL-576"
+        },
+        {
+          "sku": "XL-577"
+        },
+        {
+          "sku": "XL-578"
+        },
+        {
+          "sku": "XL-579"
+        },
+        {
+          "sku": "XL-585"
+        },
+        {
+          "sku": "XL-586"
+        },
+        {
+          "sku": "XL-587"
+        },
+        {
+          "sku": "XL-588"
+        },
+        {
+          "sku": "XL-589"
+        }
+      ],
+      "images": [
+        "0444e76b7a6d.webp",
+        "97c806aa23ce.webp",
+        "c060bb06f0c1.webp",
+        "dd8e08394a9a.webp",
+        "e724864990f0.webp"
+      ],
+      "coverImage": "0444e76b7a6d.webp"
+    },
+    {
+      "id": "бумажные-подарочные-xl25-33x45",
+      "type": "Бумажные подарочные",
+      "series": "XL25",
+      "size": "33x45",
+      "title": "XL25 • 33×45",
+      "tags": [],
+      "variantCount": 10,
+      "variants": [
+        {
+          "sku": "XL25-506"
+        },
+        {
+          "sku": "XL25-507"
+        },
+        {
+          "sku": "XL25-508"
+        },
+        {
+          "sku": "XL25-509"
+        },
+        {
+          "sku": "XL25-510"
+        },
+        {
+          "sku": "XL25-511"
+        },
+        {
+          "sku": "XL25-512"
+        },
+        {
+          "sku": "XL25-513"
+        },
+        {
+          "sku": "XL25-514"
+        },
+        {
+          "sku": "XL25-515"
+        }
+      ],
+      "images": [
+        "07d814907175.webp",
+        "88254e219cb6.webp"
+      ],
+      "coverImage": "07d814907175.webp"
+    },
+    {
+      "id": "бумажные-подарочные-xlg-na",
+      "type": "Бумажные подарочные",
+      "series": "XLG",
+      "size": null,
+      "title": "XLG",
+      "tags": [],
+      "variantCount": 4,
+      "variants": [
+        {
+          "sku": "XLG-511"
+        },
+        {
+          "sku": "XLG-512"
+        },
+        {
+          "sku": "XLG-513"
+        },
+        {
+          "sku": "XLG-514"
+        }
+      ],
+      "images": [
+        "c078c1b116b0.webp",
+        "d9adc9a80e46.webp"
+      ],
+      "coverImage": "c078c1b116b0.webp"
+    },
+    {
+      "id": "бумажные-подарочные-xxl-41x56x24",
+      "type": "Бумажные подарочные",
+      "series": "XXL",
+      "size": "41x56x24",
+      "title": "XXL • 41×56×24",
+      "tags": [],
+      "variantCount": 6,
+      "variants": [
+        {
+          "sku": "XXL-939"
+        },
+        {
+          "sku": "XXL-940"
+        },
+        {
+          "sku": "XXL-945"
+        },
+        {
+          "sku": "XXL-946"
+        },
+        {
+          "sku": "XXL-949"
+        },
+        {
+          "sku": "XXL-950"
+        }
+      ],
+      "images": [
+        "1da355b91c1b.webp",
+        "8a0d62c5be5c.webp",
+        "a96f0ed2f376.webp"
+      ],
+      "coverImage": "1da355b91c1b.webp"
+    },
+    {
+      "id": "бумажные-подарочные-xxlh-56x41x24",
+      "type": "Бумажные подарочные",
+      "series": "XXLH",
+      "size": "56x41x24",
+      "title": "XXLH • 56×41×24",
+      "tags": [],
+      "variantCount": 6,
+      "variants": [
+        {
+          "sku": "XXLH-944"
+        },
+        {
+          "sku": "XXLH-945"
+        },
+        {
+          "sku": "XXLH-950"
+        },
+        {
+          "sku": "XXLH-951"
+        },
+        {
+          "sku": "XXLH-9901"
+        },
+        {
+          "sku": "XXLH-9904"
+        }
+      ],
+      "images": [
+        "8d1f198d5639.webp",
+        "97f551124c56.webp",
+        "a77050a3c9f0.webp",
+        "e902b48b4552.webp"
+      ],
+      "coverImage": "8d1f198d5639.webp"
+    },
+    {
+      "id": "бумажные-подарочные-м3-18x23x10",
+      "type": "Бумажные подарочные",
+      "series": "М3",
+      "size": "18x23x10",
+      "title": "М3 • 18×23×10",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "М3"
+        }
+      ],
+      "images": [
+        "aad2e61528bf.webp"
+      ],
+      "coverImage": "aad2e61528bf.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-11x14",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "11x14",
+      "title": "Р • 11×14",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "243cd7a8e0c3.webp"
+      ],
+      "coverImage": "243cd7a8e0c3.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-12x36x10",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "12x36x10",
+      "title": "Р • 12×36×10",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "aad2e61528bf.webp"
+      ],
+      "coverImage": "aad2e61528bf.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-12x36x8",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "12x36x8",
+      "title": "Р • 12×36×8",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "37144f334efb.webp"
+      ],
+      "coverImage": "37144f334efb.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-14x20",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "14x20",
+      "title": "Р • 14×20",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "68f355a3b2eb.webp"
+      ],
+      "coverImage": "68f355a3b2eb.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-180230x100",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "180230x100",
+      "title": "Р • 180230×100",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "3fcaea28eb6c.webp"
+      ],
+      "coverImage": "3fcaea28eb6c.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-180x227x100",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "180x227x100",
+      "title": "Р • 180×227×100",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "d7dd5ed3b89b.webp"
+      ],
+      "coverImage": "d7dd5ed3b89b.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-18x23",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "18x23",
+      "title": "Р • 18×23",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "117f36f35f35.webp"
+      ],
+      "coverImage": "117f36f35f35.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-18x23x10",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "18x23x10",
+      "title": "Р • 18×23×10",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "afa5b9104741.webp"
+      ],
+      "coverImage": "afa5b9104741.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-20x20",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "20x20",
+      "title": "Р • 20×20",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "2786ca7747eb.webp"
+      ],
+      "coverImage": "2786ca7747eb.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-220x310x100",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "220x310x100",
+      "title": "Р • 220×310×100",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "61f7f60689ba.webp"
+      ],
+      "coverImage": "61f7f60689ba.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-22x31",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "22x31",
+      "title": "Р • 22×31",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "868c17ac1315.webp"
+      ],
+      "coverImage": "868c17ac1315.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-25x25",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "25x25",
+      "title": "Р • 25×25",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "afa5b9104741.webp"
+      ],
+      "coverImage": "afa5b9104741.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-260x320x120",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "260x320x120",
+      "title": "Р • 260×320×120",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "3fcaea28eb6c.webp"
+      ],
+      "coverImage": "3fcaea28eb6c.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-264x327x136",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "264x327x136",
+      "title": "Р • 264×327×136",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "fe337040d63a.webp"
+      ],
+      "coverImage": "fe337040d63a.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-26x32",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "26x32",
+      "title": "Р • 26×32",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "15c5ca653251.webp"
+      ],
+      "coverImage": "15c5ca653251.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-30x30x14",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "30x30x14",
+      "title": "Р • 30×30×14",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "0c0c8e5e8b80.webp"
+      ],
+      "coverImage": "0c0c8e5e8b80.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-32x26",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "32x26",
+      "title": "Р • 32×26",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "9beba03b92e1.webp"
+      ],
+      "coverImage": "9beba03b92e1.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-33x45",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "33x45",
+      "title": "Р • 33×45",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "10cb8590aeec.webp"
+      ],
+      "coverImage": "10cb8590aeec.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-41x56x24",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "41x56x24",
+      "title": "Р • 41×56×24",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "97f551124c56.webp"
+      ],
+      "coverImage": "97f551124c56.webp"
+    },
+    {
+      "id": "бумажные-подарочные-р-56x41x24",
+      "type": "Бумажные подарочные",
+      "series": "Р",
+      "size": "56x41x24",
+      "title": "Р • 56×41×24",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "97f551124c56.webp"
+      ],
+      "coverImage": "97f551124c56.webp"
+    },
+    {
+      "id": "крафт-lk-264x327x136",
+      "type": "Крафт",
+      "series": "LK",
+      "size": "264x327x136",
+      "title": "LK • 264×327×136",
+      "tags": [
+        "белёный",
+        "крафт"
+      ],
+      "variantCount": 10,
+      "variants": [
+        {
+          "sku": "LK-001"
+        },
+        {
+          "sku": "LK-002"
+        },
+        {
+          "sku": "LK-003"
+        },
+        {
+          "sku": "LK-004"
+        },
+        {
+          "sku": "LK-015"
+        },
+        {
+          "sku": "LK-016"
+        },
+        {
+          "sku": "LK-025"
+        },
+        {
+          "sku": "LK-026"
+        },
+        {
+          "sku": "LK-029"
+        },
+        {
+          "sku": "LK-030"
+        }
+      ],
+      "images": [
+        "103fa2c47536.webp",
+        "4ab5e4edaff1.webp",
+        "87c611611173.webp",
+        "d56cb1bc2dce.webp",
+        "fe337040d63a.webp"
+      ],
+      "coverImage": "103fa2c47536.webp"
+    },
+    {
+      "id": "крафт-mk-180x227x100",
+      "type": "Крафт",
+      "series": "MK",
+      "size": "180x227x100",
+      "title": "MK • 180×227×100",
+      "tags": [
+        "белёный",
+        "крафт"
+      ],
+      "variantCount": 6,
+      "variants": [
+        {
+          "sku": "MK-003"
+        },
+        {
+          "sku": "MK-004"
+        },
+        {
+          "sku": "MK-033"
+        },
+        {
+          "sku": "MK-034"
+        },
+        {
+          "sku": "MK-035"
+        },
+        {
+          "sku": "MK-036"
+        }
+      ],
+      "images": [
+        "19fe59314d47.webp",
+        "7e94bc11c850.webp",
+        "e9bc19fe38f8.webp"
+      ],
+      "coverImage": "19fe59314d47.webp"
+    },
+    {
+      "id": "крафт-mlk-220x310x100",
+      "type": "Крафт",
+      "series": "MLK",
+      "size": "220x310x100",
+      "title": "MLK • 220×310×100",
+      "tags": [
+        "белёный",
+        "крафт"
+      ],
+      "variantCount": 8,
+      "variants": [
+        {
+          "sku": "MLK-001"
+        },
+        {
+          "sku": "MLK-002"
+        },
+        {
+          "sku": "MLK-003"
+        },
+        {
+          "sku": "MLK-004"
+        },
+        {
+          "sku": "MLK-023"
+        },
+        {
+          "sku": "MLK-024"
+        },
+        {
+          "sku": "MLK-029"
+        },
+        {
+          "sku": "MLK-030"
+        }
+      ],
+      "images": [
+        "6059b48bf96d.webp",
+        "9346ab230ea1.webp",
+        "a2accccb6af5.webp",
+        "ccff56fe241c.webp"
+      ],
+      "coverImage": "6059b48bf96d.webp"
+    },
+    {
+      "id": "крафт-mlk25-220x310x100",
+      "type": "Крафт",
+      "series": "MLK25",
+      "size": "220x310x100",
+      "title": "MLK25 • 220×310×100",
+      "tags": [
+        "белёный"
+      ],
+      "variantCount": 2,
+      "variants": [
+        {
+          "sku": "MLK25-005"
+        },
+        {
+          "sku": "MLK25-006"
+        }
+      ],
+      "images": [
+        "61f7f60689ba.webp"
+      ],
+      "coverImage": "61f7f60689ba.webp"
+    },
+    {
+      "id": "крафт-мk-180x227x100",
+      "type": "Крафт",
+      "series": "МK",
+      "size": "180x227x100",
+      "title": "МK • 180×227×100",
+      "tags": [
+        "белёный"
+      ],
+      "variantCount": 2,
+      "variants": [
+        {
+          "sku": "МK-001"
+        },
+        {
+          "sku": "МK-002"
+        }
+      ],
+      "images": [
+        "d7dd5ed3b89b.webp"
+      ],
+      "coverImage": "d7dd5ed3b89b.webp"
+    },
+    {
+      "id": "под-бутылку-bk-123x362x100",
+      "type": "Под бутылку",
+      "series": "BK",
+      "size": "123x362x100",
+      "title": "BK • 123×362×100",
+      "tags": [
+        "белёный",
+        "крафт"
+      ],
+      "variantCount": 13,
+      "variants": [
+        {
+          "sku": "BK-001"
+        },
+        {
+          "sku": "BK-002"
+        },
+        {
+          "sku": "BK-005"
+        },
+        {
+          "sku": "BK-006"
+        },
+        {
+          "sku": "BK-007"
+        },
+        {
+          "sku": "BK-008"
+        },
+        {
+          "sku": "BK-021"
+        },
+        {
+          "sku": "BK-022"
+        },
+        {
+          "sku": "BK-023"
+        },
+        {
+          "sku": "BK-024"
+        },
+        {
+          "sku": "BK-025"
+        },
+        {
+          "sku": "BK-026"
+        },
+        {
+          "sku": "BK-027"
+        }
+      ],
+      "images": [
+        "202deb8a1732.webp",
+        "2d23648cadaf.webp",
+        "31dd196b4679.webp",
+        "7fe42e0e2847.webp",
+        "e42ac7e92312.webp"
+      ],
+      "coverImage": "202deb8a1732.webp"
+    },
+    {
+      "id": "под-бутылку-bk25-123x362x100",
+      "type": "Под бутылку",
+      "series": "BK25",
+      "size": "123x362x100",
+      "title": "BK25 • 123×362×100",
+      "tags": [
+        "белёный"
+      ],
+      "variantCount": 2,
+      "variants": [
+        {
+          "sku": "BK25-009"
+        },
+        {
+          "sku": "BK25-010"
+        }
+      ],
+      "images": [
+        "e8eaa70bc6d4.webp"
+      ],
+      "coverImage": "e8eaa70bc6d4.webp"
+    },
+    {
+      "id": "под-бутылку-bkр-123x362x100",
+      "type": "Под бутылку",
+      "series": "BKР",
+      "size": "123x362x100",
+      "title": "BKР • 123×362×100",
+      "tags": [
+        "premium"
+      ],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "BKР"
+        }
+      ],
+      "images": [
+        "41b7fb1653e6.webp"
+      ],
+      "coverImage": "41b7fb1653e6.webp"
+    },
+    {
+      "id": "под-бутылку-sg-580x430x130",
+      "type": "Под бутылку",
+      "series": "SG",
+      "size": "580x430x130",
+      "title": "SG • 580×430×130",
+      "tags": [],
+      "variantCount": 4,
+      "variants": [
+        {
+          "sku": "SG-101"
+        },
+        {
+          "sku": "SG-105"
+        },
+        {
+          "sku": "SG-113"
+        },
+        {
+          "sku": "SG-114"
+        }
+      ],
+      "images": [
+        "9ea6f7a301f4.webp",
+        "fcd743496bdf.webp"
+      ],
+      "coverImage": "9ea6f7a301f4.webp"
+    },
+    {
+      "id": "под-бутылку-spb25-b-120x360x120",
+      "type": "Под бутылку",
+      "series": "SPB25-B",
+      "size": "120x360x120",
+      "title": "SPB25-B • 120×360×120",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "SPB25-B"
+        }
+      ],
+      "images": [
+        "7bd1af853c68.webp"
+      ],
+      "coverImage": "7bd1af853c68.webp"
+    },
+    {
+      "id": "под-бутылку-spb25-b-250x360x100",
+      "type": "Под бутылку",
+      "series": "SPB25-B",
+      "size": "250x360x100",
+      "title": "SPB25-B • 250×360×100",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "SPB25-B"
+        }
+      ],
+      "images": [
+        "4583e9ce9e4c.webp"
+      ],
+      "coverImage": "4583e9ce9e4c.webp"
+    },
+    {
+      "id": "под-бутылку-spb25-r-120x360x120",
+      "type": "Под бутылку",
+      "series": "SPB25-R",
+      "size": "120x360x120",
+      "title": "SPB25-R • 120×360×120",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "SPB25-R"
+        }
+      ],
+      "images": [
+        "e485228cc963.webp"
+      ],
+      "coverImage": "e485228cc963.webp"
+    },
+    {
+      "id": "под-бутылку-spb25-r-250x360x100",
+      "type": "Под бутылку",
+      "series": "SPB25-R",
+      "size": "250x360x100",
+      "title": "SPB25-R • 250×360×100",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "SPB25-R"
+        }
+      ],
+      "images": [
+        "4a10f3fa92c7.webp"
+      ],
+      "coverImage": "4a10f3fa92c7.webp"
+    },
+    {
+      "id": "под-бутылку-spb25-w-120x360x120",
+      "type": "Под бутылку",
+      "series": "SPB25-W",
+      "size": "120x360x120",
+      "title": "SPB25-W • 120×360×120",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "SPB25-W"
+        }
+      ],
+      "images": [
+        "eaac2b3fef5e.webp"
+      ],
+      "coverImage": "eaac2b3fef5e.webp"
+    },
+    {
+      "id": "под-бутылку-spb25-w-250x360x100",
+      "type": "Под бутылку",
+      "series": "SPB25-W",
+      "size": "250x360x100",
+      "title": "SPB25-W • 250×360×100",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "SPB25-W"
+        }
+      ],
+      "images": [
+        "ea0415b5dba3.webp"
+      ],
+      "coverImage": "ea0415b5dba3.webp"
+    },
+    {
+      "id": "под-бутылку-xlk-324x445x102",
+      "type": "Под бутылку",
+      "series": "XLK",
+      "size": "324x445x102",
+      "title": "XLK • 324×445×102",
+      "tags": [
+        "крафт"
+      ],
+      "variantCount": 18,
+      "variants": [
+        {
+          "sku": "XLK-001"
+        },
+        {
+          "sku": "XLK-002"
+        },
+        {
+          "sku": "XLK-003"
+        },
+        {
+          "sku": "XLK-004"
+        },
+        {
+          "sku": "XLK-009"
+        },
+        {
+          "sku": "XLK-010"
+        },
+        {
+          "sku": "XLK-011"
+        },
+        {
+          "sku": "XLK-012"
+        },
+        {
+          "sku": "XLK-013"
+        },
+        {
+          "sku": "XLK-014"
+        },
+        {
+          "sku": "XLK-017"
+        },
+        {
+          "sku": "XLK-018"
+        },
+        {
+          "sku": "XLK-021"
+        },
+        {
+          "sku": "XLK-022"
+        },
+        {
+          "sku": "XLK-025"
+        },
+        {
+          "sku": "XLK-026"
+        },
+        {
+          "sku": "XLK-027"
+        },
+        {
+          "sku": "XLK-028"
+        }
+      ],
+      "images": [
+        "00629af94354.webp",
+        "09223bce2779.webp",
+        "244d9749c9d8.webp",
+        "25a86e0a5b01.webp",
+        "50263ef8fad5.webp",
+        "67648e33860e.webp"
+      ],
+      "coverImage": "00629af94354.webp"
+    },
+    {
+      "id": "под-бутылку-р-123x362x100",
+      "type": "Под бутылку",
+      "series": "Р",
+      "size": "123x362x100",
+      "title": "Р • 123×362×100",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "7fe42e0e2847.webp"
+      ],
+      "coverImage": "7fe42e0e2847.webp"
+    },
+    {
+      "id": "под-бутылку-р-140x350x110",
+      "type": "Под бутылку",
+      "series": "Р",
+      "size": "140x350x110",
+      "title": "Р • 140×350×110",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "e83d7611172d.webp"
+      ],
+      "coverImage": "e83d7611172d.webp"
+    },
+    {
+      "id": "под-бутылку-р-324x445x102",
+      "type": "Под бутылку",
+      "series": "Р",
+      "size": "324x445x102",
+      "title": "Р • 324×445×102",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "8dc9ba238470.webp"
+      ],
+      "coverImage": "8dc9ba238470.webp"
+    },
+    {
+      "id": "под-бутылку-р-580x430x130",
+      "type": "Под бутылку",
+      "series": "Р",
+      "size": "580x430x130",
+      "title": "Р • 580×430×130",
+      "tags": [],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "Р"
+        }
+      ],
+      "images": [
+        "8e14f6d26bbf.webp"
+      ],
+      "coverImage": "8e14f6d26bbf.webp"
+    },
+    {
+      "id": "премиум-lux-b-12x36x10",
+      "type": "Премиум / LUX",
+      "series": "B",
+      "size": "12x36x10",
+      "title": "B • 12×36×10",
+      "tags": [
+        "premium"
+      ],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "B"
+        }
+      ],
+      "images": [
+        "63bb10717112.webp"
+      ],
+      "coverImage": "63bb10717112.webp"
+    },
+    {
+      "id": "премиум-lux-bc-12x36x10",
+      "type": "Премиум / LUX",
+      "series": "BC",
+      "size": "12x36x10",
+      "title": "BC • 12×36×10",
+      "tags": [
+        "lux"
+      ],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "BC"
+        }
+      ],
+      "images": [
+        "e3c0c47b56f2.webp"
+      ],
+      "coverImage": "e3c0c47b56f2.webp"
+    },
+    {
+      "id": "премиум-lux-bcp-12x36x10",
+      "type": "Премиум / LUX",
+      "series": "BCP",
+      "size": "12x36x10",
+      "title": "BCP • 12×36×10",
+      "tags": [
+        "premium"
+      ],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "BCP"
+        }
+      ],
+      "images": [
+        "ba1310b56461.webp"
+      ],
+      "coverImage": "ba1310b56461.webp"
+    },
+    {
+      "id": "премиум-lux-fl-26x33x14",
+      "type": "Премиум / LUX",
+      "series": "FL",
+      "size": "26x33x14",
+      "title": "FL • 26×33×14",
+      "tags": [],
+      "variantCount": 2,
+      "variants": [
+        {
+          "sku": "FL-001"
+        },
+        {
+          "sku": "FL-002"
+        }
+      ],
+      "images": [
+        "c97565fc52cd.webp"
+      ],
+      "coverImage": "c97565fc52cd.webp"
+    },
+    {
+      "id": "премиум-lux-fm-18x23x10",
+      "type": "Премиум / LUX",
+      "series": "FM",
+      "size": "18x23x10",
+      "title": "FM • 18×23×10",
+      "tags": [],
+      "variantCount": 2,
+      "variants": [
+        {
+          "sku": "FM-001"
+        },
+        {
+          "sku": "FM-002"
+        }
+      ],
+      "images": [
+        "b5dff23216ce.webp"
+      ],
+      "coverImage": "b5dff23216ce.webp"
+    },
+    {
+      "id": "премиум-lux-lc-26x33",
+      "type": "Премиум / LUX",
+      "series": "LC",
+      "size": "26x33",
+      "title": "LC • 26×33",
+      "tags": [
+        "lux"
+      ],
+      "variantCount": 6,
+      "variants": [
+        {
+          "sku": "LC-040"
+        },
+        {
+          "sku": "LC-041"
+        },
+        {
+          "sku": "LC-044"
+        },
+        {
+          "sku": "LC-045"
+        },
+        {
+          "sku": "LC-050"
+        },
+        {
+          "sku": "LC-051"
+        }
+      ],
+      "images": [
+        "5f4adca7837b.webp",
+        "6093364bd987.webp",
+        "aad2e61528bf.webp"
+      ],
+      "coverImage": "5f4adca7837b.webp"
+    },
+    {
+      "id": "премиум-lux-lp-26x32x10",
+      "type": "Премиум / LUX",
+      "series": "LP",
+      "size": "26x32x10",
+      "title": "LP • 26×32×10",
+      "tags": [
+        "premium"
+      ],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "LP"
+        }
+      ],
+      "images": [
+        "dbbc197b98c8.webp"
+      ],
+      "coverImage": "dbbc197b98c8.webp"
+    },
+    {
+      "id": "премиум-lux-m-18x23x10",
+      "type": "Премиум / LUX",
+      "series": "M",
+      "size": "18x23x10",
+      "title": "M • 18×23×10",
+      "tags": [
+        "lux"
+      ],
+      "variantCount": 2,
+      "variants": [
+        {
+          "sku": "M-LUX-015"
+        },
+        {
+          "sku": "M-LUX-016"
+        }
+      ],
+      "images": [
+        "efc15bc993ba.webp"
+      ],
+      "coverImage": "efc15bc993ba.webp"
+    },
+    {
+      "id": "премиум-lux-mc-18x23",
+      "type": "Премиум / LUX",
+      "series": "MC",
+      "size": "18x23",
+      "title": "MC • 18×23",
+      "tags": [
+        "lux"
+      ],
+      "variantCount": 8,
+      "variants": [
+        {
+          "sku": "MC-039"
+        },
+        {
+          "sku": "MC-040"
+        },
+        {
+          "sku": "MC-043"
+        },
+        {
+          "sku": "MC-044"
+        },
+        {
+          "sku": "MC-047"
+        },
+        {
+          "sku": "MC-048"
+        },
+        {
+          "sku": "MC-049"
+        },
+        {
+          "sku": "MC-050"
+        }
+      ],
+      "images": [
+        "0cdd6a232c7d.webp",
+        "2f7d6bd28950.webp",
+        "318b8758584f.webp",
+        "aad2e61528bf.webp"
+      ],
+      "coverImage": "0cdd6a232c7d.webp"
+    },
+    {
+      "id": "премиум-lux-mlp-22x31x10",
+      "type": "Премиум / LUX",
+      "series": "MLP",
+      "size": "22x31x10",
+      "title": "MLP • 22×31×10",
+      "tags": [
+        "premium"
+      ],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "MLP"
+        }
+      ],
+      "images": [
+        "04fea66b92d9.webp"
+      ],
+      "coverImage": "04fea66b92d9.webp"
+    },
+    {
+      "id": "премиум-lux-mp-18x23x10",
+      "type": "Премиум / LUX",
+      "series": "MP",
+      "size": "18x23x10",
+      "title": "MP • 18×23×10",
+      "tags": [
+        "premium"
+      ],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "MP"
+        }
+      ],
+      "images": [
+        "3293afd9db8c.webp"
+      ],
+      "coverImage": "3293afd9db8c.webp"
+    },
+    {
+      "id": "премиум-lux-xl-33x45",
+      "type": "Премиум / LUX",
+      "series": "XL",
+      "size": "33x45",
+      "title": "XL • 33×45",
+      "tags": [
+        "premium"
+      ],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "XL"
+        }
+      ],
+      "images": [
+        "d48d74d42cd8.webp"
+      ],
+      "coverImage": "d48d74d42cd8.webp"
+    },
+    {
+      "id": "премиум-lux-xlp-33x45",
+      "type": "Премиум / LUX",
+      "series": "XLP",
+      "size": "33x45",
+      "title": "XLP • 33×45",
+      "tags": [
+        "premium"
+      ],
+      "variantCount": 1,
+      "variants": [
+        {
+          "sku": "XLP"
+        }
+      ],
+      "images": [
+        "dac90a178955.webp"
+      ],
+      "coverImage": "dac90a178955.webp"
+    }
+  ]
+}
