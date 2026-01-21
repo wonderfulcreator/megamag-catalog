@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import CatalogClient from "@/components/CatalogClient";
+import { CatalogClient } from "@/components/CatalogClient";
 
 function CatalogFallback() {
   return (
