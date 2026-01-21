@@ -1,5 +1,6 @@
 import { Suspense } from "react";
 import { CatalogClient } from "@/components/CatalogClient";
+import { catalog } from "@/data/catalog";
 
 function CatalogFallback() {
   return (
@@ -14,7 +15,7 @@ function CatalogFallback() {
 export default function CatalogPage() {
   return (
     <Suspense fallback={<CatalogFallback />}>
-      <CatalogClient />
+      <CatalogClient groups={catalog.groups} />
     </Suspense>
   );
 }
